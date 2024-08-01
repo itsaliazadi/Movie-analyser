@@ -31,8 +31,8 @@ def ExtractData():
         movie_index += 1
 
 
-    for movie in movies_dict.keys():
-        print(f"{movie}:{', '.join(movies_dict[movie])}")
+    # for movie in movies_dict.keys():
+    #     print(f"{movie}:{', '.join(movies_dict[movie])}")
     
     return movies_dict
 
@@ -64,6 +64,3 @@ def extractGenres(soup):
         genres.append(genre)
     
     return genres
-
-
-ExtractData()
