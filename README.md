@@ -1,6 +1,6 @@
 **Movie Genre Scraper and Visualization**  
 This project scrapes the top 250 movies from IMDB and extracts their genres. It then visualizes the distribution of genres using a bar chart.  
-**Requirements**  
+**Requirements**
 * Python 3.x
 * requests library
 * beautifulsoup4 library
