@@ -1,16 +1,16 @@
 **Movie Genre Scraper and Visualization**
-This project scrapes the top 250 movies from IMDB and extracts their genres. It then visualizes the distribution of genres using a bar chart.
+This project scrapes the top 250 movies from IMDB and extracts their genres. It then visualizes the distribution of genres using a bar chart.\n
 **Requirements**
 * Python 3.x
 * requests library
 * beautifulsoup4 library
-* matplotlib library
+* matplotlib library\n
 **Usage**
 Run Scraper.py to scrape the movie data and extract the genres.
-Run Visualization.py to visualize the genre distribution.
+Run Visualization.py to visualize the genre distribution.\n
 **Files**
 * Scraper.py: Contains the code for scraping the movie data and extracting the genres.
-* Visualization.py: Contains the code for visualizing the genre distribution.
+* Visualization.py: Contains the code for visualizing the genre distribution.\n
 **Notes**
 * -The scraper uses a User-Agent header to prevent the website from blocking the requests.
 * -The visualization uses a bar chart to display the distribution of genres.
